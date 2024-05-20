@@ -1,6 +1,7 @@
 # MP3 Downloader for DJ's 💿
 
-This Python script is designed to simplify the process of downloading MP3 audio files from YouTube and SoundCloud links. As a DJ, I understand the challenges of finding and downloading high-quality audio tracks for performances. This script aims to streamline the process and make it easier to download the songs you need.
+This Python script is designed to simplify the process of downloading MP3 audio files from YouTube and SoundCloud links. As a DJ, I understand the challenges of finding and downloading high-quality audio tracks for performances. This script aims to streamline the process and make it easier to download the songs you need. ⬇️
+
 
 ![Command Line Screenshot](screenshots/screenshot.png)
 
